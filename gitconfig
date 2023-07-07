@@ -59,3 +59,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = iyayiroland@gmail.com
+	name = Iyayi Roland
